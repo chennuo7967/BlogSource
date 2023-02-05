@@ -3,15 +3,15 @@
 # --------------------------------------
 
 menu:
-   Home: / || fas fa-home
-   Archives: /archives/ || fas fa-archive
-   Tags: /tags/ || fas fa-tags
-   Categories: /categories/ || fas fa-folder-open
-   List||fas fa-list:
-     Music: /music/ || fas fa-music
-     Movie: /movies/ || fas fa-video
-   Link: /link/ || fas fa-link
-   About: /about/ || fas fa-heart
+   主页·: / || fas fa-home
+   文章: /archives/ || fas fa-archive
+   标签: /tags/ || fas fa-tags
+   分类: /categories/ || fas fa-folder-open
+   列表||fas fa-list:
+     音乐: /music/ || fas fa-music
+     电影: /movies/ || fas fa-video
+   链接: /link/ || fas fa-link
+   关于: /about/ || fas fa-heart
 
 nav:
   logo: # image
@@ -542,12 +542,12 @@ enter_transitions: true
 # canvas_ribbon (靜止彩帶背景)
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: false
+  enable: true
   size: 150
   alpha: 0.6
   zIndex: -1
-  click_to_change: false
-  mobile: false
+  click_to_change: ture
+  mobile: true
 
 # Fluttering Ribbon (動態彩帶)
 canvas_fluttering_ribbon:
@@ -676,7 +676,7 @@ aside:
       link: https://github.com/chennuo7967
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: "Hello"
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
