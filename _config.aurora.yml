@@ -17,7 +17,7 @@ site:
   language: cn
   multi_language: true
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
-  avatar: https://img-blog.csdnimg.cn/20210313122054101.png
+  avatar: /images/profile.jpg
   beian:
     number: ''
     link: ''
@@ -191,6 +191,9 @@ valine:
 # see http://ibruce.info/2015/04/04/busuanzi/
 busuanzi:
   enable: true
+  site_uv: true
+  site_pv: true
+  page_pv: true
 
 copy_protection:
   enable: false
