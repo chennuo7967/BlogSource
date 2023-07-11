@@ -27,3 +27,27 @@
     - name: Github
       link: https://github.com/
       descr: 全球最大同性交友平台
+    - name: 高德地图
+      link: https://amap.com/
+      descr: 国内最佳导航
+    - name: 在线工具
+      link: https://tool.lu/
+      descr: 日常工作生活常用工具
+    - name: 草料二维码
+      link: https://cli.im/
+      descr: 二维码生成器
+    - name: 视频下载
+      link: https://weibo.iiilab.com/
+      descr: 网页视频下载器
+    - name: Bigjpg
+      link: https://bigjpg.com/
+      descr: AI人工智能图片放大
+    - name: Online link generator for Microsoft Store
+      link: https://store.rg-adguard.net/
+      descr: 微软商店Appx链接生成器
+    - name: 菜鸟教程
+      link: https://www.runoob.com/
+      descr: IT相关教程
+    - name: 音乐解锁
+      link: https://tool.liumingye.cn/unlock-music/
+      descr: 音乐软件加密文件解密

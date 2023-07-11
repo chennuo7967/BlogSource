@@ -1,7 +1,7 @@
 ---
 title: KDE or Gnome? 比较两者优劣
 date: 2023-02-05 15:20:57
-tags: "Linux" 
+tags: Linux 
 ---
 # 个人使用背景
 
@@ -17,9 +17,9 @@ Gnome是大多数主流发行版的默认桌面，包括Ubuntu，Debian，Fedora
 
 Gnome有着极好的开箱使用体验，各种软件一应俱全，甚至快捷键都配置好了，默认主题的视觉感受也不错，而KDE则需要你自己去配置一堆东西，才能达到赏心悦目的效果，这一点，KDE已经劝退了一部分用户了。
 
-![gnomedesktop](/img/Pictures/001.KDE-Gnome/Gnomedesktop.png)
+![gnomedesktop](Gnomedesktop.png)
 
-![gnomeapps](/img/Pictures/001.KDE-Gnome/Gnomeapps.png)
+![gnomeapps](Gnomeapps.png)
 
 ## 风格
 
@@ -27,13 +27,13 @@ Gnome最大的特点就是简约。设置里面可以自定义的选项不多，
 
     sudo apt instll gnome-tweaks
 
-![gnometweaks](/img/Pictures/001.KDE-Gnome/Gnometweaks.png)
+![gnometweaks](Gnometweaks.png)
 
 ## 资源占用
 
 Gnome开机1G内存，KDE开机2G，你说呢
 
-![gnomesys](/img/Pictures/001.KDE-Gnome/Gnomesys.png)
+![gnomesys](Gnomesys.png)
 
 # 为什么选择KDE？
 
@@ -41,12 +41,12 @@ Gnome开机1G内存，KDE开机2G，你说呢
 
 Gnome可以自定义的地方很有限，但是在KDE里面，你可以改所有你想改的内容，并且是原生支持--不用担心兼容性，包括桌面插件，状态栏小组件，设置等等；而Gnome需要自行安装插件，并且一次大版本更新一堆插件就挂掉
 
-![KDE桌面](/img/Pictures/001.KDE-Gnome/KDEdesktop.png)
+![KDE桌面](KDEdesktop.png)
 
 ## 移动设备交互
 
 KDE自带KDE Connect，虽然现在Gnome也有了，但是功能还没有那么完善
-![KDEconnect](/img/Pictures/001.KDE-Gnome/KDEconnect.png)
+![KDEconnect](KDEconnect.png)
 ## 兼容性
 
 不知道为什么，可能是KDE基于Qt，很多软件（QQ音乐，钉钉）在Gnome下运行会出现很多问题，QQ音乐没声音，缩放问题，无法输入中文......在KDE下居然一切正常！
@@ -57,7 +57,7 @@ KDE自带KDE Connect，虽然现在Gnome也有了，但是功能还没有那么�
 
 很多同类软件，KDE比Gnome的功能多很多，UI设计也好一些；添加桌面快捷方式，KDE可以像Windows一样直接拖动，甚至还可以选择图标；而Gnome的桌面快捷方式很不稳定，容易挂掉，并且对权限有特殊要求，新建一个要自己手敲.desktop文件
 
-![KDEicon](/img/Pictures/001.KDE-Gnome/KDEicon.png)
+![KDEicon](KDEicon.png)
 
 # 总结
 

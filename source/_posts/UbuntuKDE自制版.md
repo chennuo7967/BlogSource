@@ -1,7 +1,7 @@
 ---
 title: 自制Ubuntu
 date: 2023-03-11 22:15:44
-tags: "Linux"
+tags: Linux
 ---
 
 # Why修改？

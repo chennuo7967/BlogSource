@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tommy's Blog
+title: CN的精神小屋
 subtitle: Daily life
 description: ''
 keywords:
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -55,6 +55,7 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -121,3 +122,10 @@ kramed:
   breaks: true
   smartLists: true
   smartypants: true
+
+# Generate categories from directory-tree
+# Dependencies: https://github.com/xu-song/hexo-auto-category
+# depth: the depth of directory-tree you want to generate, should > 0
+auto_category:
+ enable: true
+ depth:
